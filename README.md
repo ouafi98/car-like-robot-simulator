@@ -14,6 +14,7 @@ Matlab r2021a at least.
 # How to use ?
 ```
 Open the file single_track.slx in simulink and run.
+A gif file is generated automatically in the current working directory at the end of the simulation.
 ```
 
 # References
