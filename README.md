@@ -1,8 +1,8 @@
 # car-like-robot-simulator
-...
+```
 This simulation implement a dynamic model (single track model) and control algorithm (based on virtual vehicule approach) of
 a car-like robot.
-...
+```
 
 ![preview](https://github.com/ouafi98/car-like-robot-simulator/blob/5b18ca8ef33312ed3b0aa371887dbb4b754f2bc6/test.gif)
 
