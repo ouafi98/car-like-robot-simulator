@@ -1,2 +1,2 @@
 # car-like-robot-simulator
-![preview](https://user-images.githubusercontent.com/43729232/131255250-e9d5f68f-cdaf-489b-ad5e-9e15da6eecbe.GIF)
+![preview](https://github.com/ouafi98/car-like-robot-simulator/blob/5b18ca8ef33312ed3b0aa371887dbb4b754f2bc6/test.gif)
